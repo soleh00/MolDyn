@@ -1,1 +1,1 @@
-# MolDyn
+# Molecular Dynamics
